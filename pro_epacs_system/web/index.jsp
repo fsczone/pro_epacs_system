@@ -34,7 +34,7 @@
 
 
 
-        <script  src="js/index.js"></script>
+        <script  src="supported_assets/js/index.js"></script>
 
     </body>
 
