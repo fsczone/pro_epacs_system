@@ -28,6 +28,16 @@
             <option data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
             <option  data-content='<span class="flag-icon flag-icon-jp"></span> Japan'>Japan</option>
         </select>
+
+        <ul>
+            <li>
+                <a href="frontend_decottena/index.jsp" target=”_blank”>FRONT END</a>
+            </li>
+            <li>
+                <a href="frontend_decottena/dashboard.jsp" target=”_blank”>BACKEND</a>
+            </li>
+        </ul>
+
         <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
         <script src='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/js/bootstrap-select.min.js'></script>
         <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
