@@ -3,10 +3,6 @@
     Created on : Feb 15, 2018, 8:34:34 PM
     Author     : Buddhi
 --%>
-<%
-    String page_name = "dashboard";
-%>
-
 
 <!doctype html>
 <html lang="en">
